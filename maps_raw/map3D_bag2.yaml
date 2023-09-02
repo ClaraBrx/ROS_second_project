@@ -1,0 +1,7 @@
+image: map3D_bag2.pgm
+resolution: 0.100000
+origin: [-8.691547, -6.260806, 0.000000]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
+
